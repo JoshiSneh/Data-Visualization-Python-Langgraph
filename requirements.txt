@@ -12,3 +12,4 @@ streamlit
 typing-extensions
 tabulate
 openpyxl
+altair==4.2.2
