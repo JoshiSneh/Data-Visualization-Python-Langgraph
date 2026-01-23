@@ -8,7 +8,7 @@ pandas
 plotly
 python-dotenv
 pydantic
-streamlit
+pip install --upgrade streamlit
 typing-extensions
 tabulate
 openpyxl
