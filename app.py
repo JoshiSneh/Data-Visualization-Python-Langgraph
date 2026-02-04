@@ -32,7 +32,7 @@ with st.sidebar:
     )
 
     llm_models = {
-        "OpenAI": ["gpt-4o-mini", "gpt-4o"],
+        "OpenAI": ["gpt-4o-mini", "gpt-4o", "gpt-5.2-2025-12-11"],
         "Claude": ["claude-3-5-sonnet-20240620", "claude-3-7-sonnet-20250219"],
         "DeepSeek": ["deepseek-chat"]
     }
